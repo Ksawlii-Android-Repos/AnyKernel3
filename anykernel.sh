@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=SkyronKernel by EmreDemirn @ xda-developers
+kernel.string=FireAsf By Ksawlii. Based on Shishiro by Nadins 
 do.devicecheck=1
 do.modules=0
 do.systemless=1
